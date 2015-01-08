@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 首页Tab 文本颜色 -->
+    <color name="index_tab_textcolor">#FFF67F</color>
+    <!-- 淡灰色 -->
+    <color name="line_color">#DCDCDC</color>
+
+    <!-- 预置颜色值 -->
+    <color name="translucence">#b0000000</color>
+    <color name="white">#ffffff</color>
+
+</resources>

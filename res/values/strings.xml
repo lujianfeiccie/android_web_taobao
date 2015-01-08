@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Web淘宝</string>
+    <string name="tab1">主页</string>
+    <string name="tab2">热卖</string>
+</resources>

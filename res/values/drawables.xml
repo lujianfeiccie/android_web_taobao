@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 首页按下背景 -->
+    <item name="index_tab_normal" type="drawable">#000000</item>
+	<!-- Background color -->
+	<item name="bg_tabhost" type="drawable">#000000</item>
+</resources>
